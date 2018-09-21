@@ -6,6 +6,6 @@ int cout(i):
     i-=10
     print(i)
     for x in range(0,i):
-        print(x)
+        print(0)
 fun try():
     print( "hi")
