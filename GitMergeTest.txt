@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 read me before commit attempt
 Hello world
+=======
+read me before commit attempt gg
+>>>>>>> 97c5543b05b26b7cb112012c74ae92b38e4af87b
